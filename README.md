@@ -1,2 +1,3 @@
-# cen-3031-project
-Project for CEN 3031
+# Panel Verse
+
+TODO: write README to run server.
