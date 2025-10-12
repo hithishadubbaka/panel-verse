@@ -1,3 +1,19 @@
+@import "tailwindcss";
+
+/* light global polish */
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 antialiased;
+}
+
+/* a reusable constrained container */
+.container {
+  @apply mx-auto w-full max-w-7xl px-4;
+}
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
