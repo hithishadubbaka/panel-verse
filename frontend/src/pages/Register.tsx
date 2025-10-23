@@ -1,9 +1,5 @@
-import React from 'react'
-
-const Home = () => {
-    return (
-        <div>Home</div>
-    )
+function Register() {
+    return <h1>Register Page</h1>
 }
 
-export default Home
+export default Register;
